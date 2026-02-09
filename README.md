@@ -1,6 +1,6 @@
 # The online store
 
-A modern, responsive e-commerce web application built with Next.js and TypeScript, using the FakeStore API for product data.
+A modern, responsive e-commerce web application built with Next.js and TypeScript, using the external API for product data.
 
 <img src="https://github.com/dbstylesnet/theonlinestore/blob/main/screenshot.png" alt="ProjectScreenshot" />
 
