@@ -2,6 +2,8 @@
 
 A modern, responsive e-commerce web application built with Next.js and TypeScript, using the FakeStore API for product data.
 
+<img src="https://github.com/dbstylesnet/theonlinestore/blob/main/screenshot.png" alt="ProjectScreenshot" />
+
 ## Technical Stack
 
 - **Next.js 14** - React framework with App Router
