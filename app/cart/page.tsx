@@ -39,7 +39,7 @@ export default function CartPage() {
             <span>{cartItems.reduce((sum, item) => sum + item.quantity, 0)}</span>
           </div>
           <div className={styles.summaryRow}>
-            <span>Total Price:</span>
+            <span>Total Price </span>
             <span className={styles.totalPrice}>${getTotalPrice().toFixed(2)}</span>
           </div>
           <button className={styles.checkoutButton}>Proceed to Checkout</button>
