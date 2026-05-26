@@ -48,12 +48,3 @@ Start the production server:
 ```bash
 npm start
 ```
-
-## Future improvements
-
-- **Header** - More accurate site logo, add site slogan
-- **Categories** - Add an image to represent each category, include a section below for featured or promoted content
-- **Products page** - Add a small category list on the left side for improved navigation
-- **Colors** - Use colors that match the brand style
-- **Fonts** - Add a second font or make titles stand out more
-- **Footer** - Add footer with links and basic site information
